@@ -1,0 +1,966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-13 10:01+0500\n"
+"PO-Revision-Date: 2020-11-13 10:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/demo-data.php:5
+msgid "Introduction to Java Programming: Starting to code in Java"
+msgstr ""
+"Einführung in die Java-Programmierung: Beginnen Sie mit dem Code in Java"
+
+#: inc/demo-data.php:6
+msgid ""
+"In this introductory Java programming course, you will be introduced to "
+"powerful concepts such as functional abstraction, the object oriented "
+"programming (OOP) paradigm and Application Programming Interfaces (APIs)."
+msgstr ""
+"In diesem Java-Einführungskurs werden Sie in leistungsstarke Konzepte wie "
+"funktionale Abstraktion, das OOP-Paradigma (Object Oriented Programming) und "
+"APIs (Application Programming Interfaces) eingeführt."
+
+#: inc/demo-data.php:6
+msgid ""
+"Examples and case studies will be provided so that you can implement simple "
+"programs on your own or collaborate with peers."
+msgstr ""
+"Es werden Beispiele und Fallstudien bereitgestellt, damit Sie einfache "
+"Programme selbst implementieren oder mit Kollegen zusammenarbeiten können."
+
+#: inc/demo-data.php:12 inc/demo-data.php:16
+msgid "From the Calculator to the Computer"
+msgstr "Vom Taschenrechner zum Computer"
+
+#: inc/demo-data.php:13
+msgid "Complete details from calculator to the computer"
+msgstr "Vollständige Details vom Taschenrechner zum Computer"
+
+#: inc/demo-data.php:17 inc/demo-data.php:67
+msgid ""
+"The first section introduces basic programming concepts, such as values and "
+"expressions, as well as making decisions when implementing algorithms and "
+"developing programs. "
+msgstr ""
+"Im ersten Abschnitt werden grundlegende Programmierkonzepte wie Werte und "
+"Ausdrücke vorgestellt sowie Entscheidungen bei der Implementierung von "
+"Algorithmen und der Entwicklung von Programmen getroffen. "
+
+#: inc/demo-data.php:25 inc/demo-data.php:29
+msgid "State Transformation"
+msgstr "Zustandstransformation"
+
+#: inc/demo-data.php:26
+msgid "State Transformation & representation of data"
+msgstr "Zustandstransformation & Darstellung von Daten"
+
+#: inc/demo-data.php:30 inc/demo-data.php:44
+msgid ""
+"The second section introduces state transformation including representation "
+"of data and programs as well as conditional repetition."
+msgstr ""
+"Der zweite Abschnitt führt in die Zustandstransformation ein, einschließlich "
+"der Darstellung von Daten und Programmen sowie der bedingten Wiederholung."
+
+#: inc/demo-data.php:39 inc/demo-data.php:43
+msgid "Functional Abstraction"
+msgstr "Funktionale Abstraktion"
+
+#: inc/demo-data.php:40
+msgid "Functional Abstraction addresses the organization of code in a program"
+msgstr ""
+"Die funktionale Abstraktion befasst sich mit der Organisation von Code in "
+"einem Programm"
+
+#: inc/demo-data.php:55
+msgid "Child Protection: Children's Rights in Theory and Practice"
+msgstr "Kinderschutz: Kinderrechte in Theorie und Praxis"
+
+#: inc/demo-data.php:56
+msgid ""
+"Across the world, children are at risk from violence, abuse, exploitation, "
+"and neglect."
+msgstr ""
+"Weltweit sind Kinder durch Gewalt, Missbrauch, Ausbeutung und "
+"Vernachlässigung gefährdet."
+
+#: inc/demo-data.php:56
+msgid ""
+"Conflict and natural disasters have forced millions to flee their homes and "
+"confront the dangers of migration and displacement."
+msgstr ""
+"Konflikte und Naturkatastrophen haben Millionen gezwungen, aus ihren Häusern "
+"zu fliehen und sich den Gefahren von Migration und Vertreibung zu stellen."
+
+#: inc/demo-data.php:56
+msgid ""
+"Commercial sexual exploitation and trafficking, child labor, and child "
+"marriage are problems in many countries."
+msgstr ""
+"Kommerzielle sexuelle Ausbeutung und Handel, Kinderarbeit und Kinderehe sind "
+"in vielen Ländern Probleme."
+
+#: inc/demo-data.php:56
+msgid ""
+"At-risk children and adolescents need their rights enforced if we are to "
+"protect them from harm and to ensure that they develop to their full "
+"potential."
+msgstr ""
+"Gefährdete Kinder und Jugendliche müssen ihre Rechte durchsetzen, um sie vor "
+"Schaden zu schützen und sicherzustellen, dass sie ihr volles Potenzial "
+"entfalten."
+
+#: inc/demo-data.php:62 inc/demo-data.php:66
+msgid "Every Child's Right to Protection"
+msgstr "Das Recht jedes Kindes auf Schutz"
+
+#: inc/demo-data.php:63
+msgid "The Legal Foundation of Child Protection"
+msgstr "Die rechtliche Grundlage des Kinderschutzes"
+
+#: inc/demo-data.php:75 inc/demo-data.php:79
+msgid "Violence Against Children"
+msgstr "Gewalt gegen Kinder"
+
+#: inc/demo-data.php:76
+msgid "Causes and Consequences of Violence"
+msgstr "Ursachen und Folgen von Gewalt"
+
+#: inc/demo-data.php:80
+msgid "Causes and Consequences of Violence."
+msgstr "Ursachen und Folgen von Gewalt."
+
+#: inc/demo-data.php:80
+msgid "Strategies for Preventing and Addressing Violence."
+msgstr "Strategien zur Verhütung und Bekämpfung von Gewalt."
+
+#: inc/demo-data.php:80
+msgid "Examples of Preventing and Addressing Violence."
+msgstr "Beispiele zur Verhinderung und Bekämpfung von Gewalt."
+
+#: inc/demo-data.php:89 inc/demo-data.php:93
+msgid "Children and the Law"
+msgstr "Kinder und das Gesetz"
+
+#: inc/demo-data.php:90
+msgid "Children in Conflict with the Law"
+msgstr "Kinder im Konflikt mit dem Gesetz"
+
+#: inc/demo-data.php:94
+msgid "Children in Conflict with the Law."
+msgstr "Kinder im Konflikt mit dem Gesetz."
+
+#: inc/demo-data.php:94
+msgid "Children in Contact with the Law."
+msgstr "Kinder in Kontakt mit dem Gesetz."
+
+#: inc/demo-data.php:94
+msgid "Migrant Children and the Law."
+msgstr "Migrantenkinder und das Gesetz."
+
+#: inc/exceptions.php:5 inc/exceptions.php:8
+msgid "Sorry, you cannot get exceptions."
+msgstr "Es tut uns leid, Sie können keine Ausnahmen bekommen."
+
+#: inc/functions-inner.php:656
+msgid "Select posts to lock against this package"
+msgstr "Wählen Sie Beiträge aus, die für dieses Paket gesperrt werden sollen"
+
+#: inc/functions-inner.php:744
+msgid "This is a premium feature, please"
+msgstr "Dies ist bitte eine Premium-Funktion"
+
+#: inc/functions-inner.php:746
+msgid "click here"
+msgstr "Klicke hier"
+
+#: inc/functions-inner.php:747
+msgid "to get premium version."
+msgstr "Premium-Version zu bekommen."
+
+#: inc/functions-inner.php:756
+msgid "This is premium a feature."
+msgstr "Dies ist eine Premium-Funktion."
+
+#: inc/functions-inner.php:756
+msgid "Click to get premium version"
+msgstr "Klicken Sie hier, um die Premium-Version zu erhalten"
+
+#: inc/functions-inner.php:791
+msgid "Online Courses"
+msgstr "Online Kurse"
+
+#: inc/functions-inner.php:894
+msgid "Full course"
+msgstr "Voller Kurs"
+
+#: inc/functions-inner.php:935 inc/functions-inner.php:2225
+#: inc/functions-inner.php:2267
+msgid "View"
+msgstr "Aussicht"
+
+#: inc/functions-inner.php:961
+msgid "No course found."
+msgstr "Kein Kurs gefunden."
+
+#: inc/functions-inner.php:1039 inc/functions.php:1247 inc/functions.php:1318
+msgid "Title"
+msgstr "Titel"
+
+#: inc/functions-inner.php:1040 inc/functions.php:1240 inc/functions.php:1311
+#: inc/wc_settings.php:91 inc/wc_settings.php:451
+msgid "Price"
+msgstr "Preis"
+
+#: inc/functions-inner.php:1041 inc/functions.php:1255 inc/functions.php:1326
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/functions-inner.php:1175
+msgid "Order No."
+msgstr "Best.-Nr."
+
+#: inc/functions-inner.php:1176
+msgid "Course Name"
+msgstr "Kursname"
+
+#: inc/functions-inner.php:1177
+msgid "Purchased package"
+msgstr "Gekauftes Paket"
+
+#: inc/functions-inner.php:1178
+msgid "Action"
+msgstr "Aktion"
+
+#: inc/functions-inner.php:1232 inc/functions-inner.php:1274
+msgid "Full purchased"
+msgstr "Voll gekauft"
+
+#: inc/functions-inner.php:1235 inc/functions-inner.php:1285
+msgid "view"
+msgstr "Aussicht"
+
+#: inc/functions-inner.php:1274
+msgid "Out of"
+msgstr "Aus"
+
+#: inc/functions-inner.php:1345
+msgid "Currently, not enrolled in any course."
+msgstr "Derzeit nicht in einem Kurs eingeschrieben."
+
+#: inc/functions-inner.php:1405 inc/functions-inner.php:1838
+#: inc/functions-inner.php:1996 inc/functions-inner.php:2043
+#: inc/functions.php:209 inc/functions.php:258 inc/functions.php:291
+#: inc/functions.php:360 inc/functions.php:1516 inc/functions.php:2091
+#: inc/functions.php:2136 pro/wi_extended.php:22 pro/wi_extended_2.php:88
+msgid "Sorry, your nonce did not verify."
+msgstr "Entschuldigung, Ihre Nonce hat nicht überprüft."
+
+#: inc/functions-inner.php:1436
+msgid "Playlist created successfully."
+msgstr "Wiedergabeliste erfolgreich erstellt."
+
+#: inc/functions-inner.php:1443
+msgid "Playlist with same title already exist, please enter unique title"
+msgstr ""
+"Es gibt bereits eine Playlist mit demselben Titel. Bitte geben Sie einen "
+"eindeutigen Titel ein"
+
+#: inc/functions-inner.php:1457
+msgid "Playlist updated successfully."
+msgstr "Playlist erfolgreich aktualisiert."
+
+#: inc/functions-inner.php:1527
+msgid "Edit Playlist"
+msgstr "Wiedergabeliste bearbeiten"
+
+#: inc/functions-inner.php:1528
+msgid "Delete Playlist"
+msgstr "Wiedergabeliste löschen"
+
+#: inc/functions-inner.php:1529
+msgid "View Url"
+msgstr "URL anzeigen"
+
+#: inc/functions-inner.php:1608
+msgid "No playlist found"
+msgstr "Keine Wiedergabeliste gefunden"
+
+#: inc/functions-inner.php:1660
+msgid ""
+"Video or Audio url can be media used to create a playlist with HTML5 Media "
+"Player."
+msgstr ""
+"Video- oder Audio-URLs können Medien sein, die zum Erstellen einer "
+"Wiedergabeliste mit HTML5 Media Player verwendet werden."
+
+#: inc/functions-inner.php:1676
+msgid "Create Audio/Video Course Playlist"
+msgstr "Erstellen Sie eine Audio / Video-Kurs-Wiedergabeliste"
+
+#: inc/functions-inner.php:1685
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: inc/functions-inner.php:1690
+msgid "Show all playlists"
+msgstr "Alle Wiedergabelisten anzeigen"
+
+#: inc/functions-inner.php:1711 inc/functions-inner.php:1715
+msgid "Playlist Title"
+msgstr "Titel der Wiedergabeliste"
+
+#: inc/functions-inner.php:1725
+msgid "Add playlist URL's"
+msgstr "Fügen Sie Wiedergabelisten-URLs hinzu"
+
+#: inc/functions-inner.php:1731
+msgid "Add New URL"
+msgstr "Neue URL hinzufügen"
+
+#: inc/functions-inner.php:1766
+msgid "Save Playlist"
+msgstr "Playlist speichern"
+
+#: inc/functions-inner.php:1771
+msgid "Update Playlist"
+msgstr "Playlist aktualisieren"
+
+#: inc/functions-inner.php:1798
+msgid "Playlist title"
+msgstr "Titel der Wiedergabeliste"
+
+#: inc/functions-inner.php:1799
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/functions-inner.php:1857
+msgid "Playlist deleted successfully."
+msgstr "Playlist erfolgreich gelöscht."
+
+#: inc/functions-inner.php:1905
+msgid "Playlist not exist."
+msgstr "Playlist existiert nicht."
+
+#: inc/functions-inner.php:1942
+msgid "Course Playlist"
+msgstr "Kurs-Wiedergabeliste"
+
+#: inc/functions-inner.php:1951
+msgid "Click to play"
+msgstr "Anklicken um abzuspielen"
+
+#: inc/functions-inner.php:2087
+msgid "Previous"
+msgstr "Bisherige"
+
+#: inc/functions-inner.php:2111
+msgid "Next"
+msgstr "Nächster"
+
+#: inc/functions-inner.php:2129
+msgid "Items per page"
+msgstr "Objekte pro Seite"
+
+#: inc/functions-inner.php:2220 inc/functions-inner.php:2264
+msgid "This is a demo product installed for demonstration."
+msgstr "Dies ist ein Demo-Produkt, das zur Demonstration installiert wurde."
+
+#: inc/functions-inner.php:2220 inc/functions-inner.php:2264
+#: inc/wc_settings.php:204
+msgid "Demo Content"
+msgstr "Demo-Inhalt"
+
+#: inc/functions-inner.php:2224
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/functions-inner.php:2254
+msgid "Go to Course Products tab to change the settings"
+msgstr ""
+"Wechseln Sie zur Registerkarte Kursprodukte, um die Einstellungen zu ändern"
+
+#: inc/functions.php:505
+msgid "Successfully updated."
+msgstr "Erfolgreich aktualisiert."
+
+#: inc/functions.php:592
+msgid "Full Buy"
+msgstr "Voller Kauf"
+
+#: inc/functions.php:593
+msgid "Get Packages"
+msgstr "Pakete erhalten"
+
+#: inc/functions.php:596
+msgid "Alternatively you can get course in installments."
+msgstr "Alternativ können Sie Kurs in Raten erhalten."
+
+#: inc/functions.php:597 index.php:27
+msgid "Following tiers are available"
+msgstr "Folgende Ebenen sind verfügbar"
+
+#: inc/functions.php:618 index.php:29 pro/wi_extended.php:446
+#: pro/wi_extended_2.php:365
+msgid "Proceed with Packages"
+msgstr "Fahren Sie mit den Paketen fort"
+
+#: inc/functions.php:659 pro/wi_extended_2.php:524
+msgid "To proceed, click on "
+msgstr "Um fortzufahren, klicken Sie auf "
+
+#: inc/functions.php:659 pro/wi_extended_2.php:525
+msgid "View Cart"
+msgstr "Warenkorb ansehen"
+
+#: inc/functions.php:749 inc/functions.php:1971
+msgid "Package"
+msgstr "Paket"
+
+#: inc/functions.php:1099 inc/functions.php:1823 inc/wc_settings.php:23
+msgid "Settings"
+msgstr "die Einstellungen"
+
+#: inc/functions.php:1156
+msgid "Package Heading"
+msgstr "Paketüberschrift"
+
+#: inc/functions.php:1156
+msgid "Packages or Installments"
+msgstr "Pakete oder Raten"
+
+#: inc/functions.php:1163
+msgid "Please define packages for this product"
+msgstr "Bitte definieren Sie Pakete für dieses Produkt"
+
+#: inc/functions.php:1171
+msgid "Add Package"
+msgstr "Paket hinzufügen"
+
+#: inc/functions.php:1240 inc/functions.php:1311
+msgid "Enter package price"
+msgstr "Paketpreis eingeben"
+
+#: inc/functions.php:1247 inc/functions.php:1318
+msgid "Enter package title"
+msgstr "Geben Sie den Pakettitel ein"
+
+#: inc/functions.php:1255 inc/functions.php:1326
+msgid "Enter package description"
+msgstr "Paketbeschreibung eingeben"
+
+#: inc/functions.php:1265 inc/functions.php:1335
+msgid "Link course content"
+msgstr "Kursinhalt verknüpfen"
+
+#: inc/functions.php:1270 inc/functions.php:1340
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: inc/functions.php:1271 inc/functions.php:1341
+msgid "Remove"
+msgstr "Entfernen"
+
+#: inc/functions.php:1273 inc/functions.php:1343
+msgid "Click here to select image"
+msgstr "Klicken Sie hier, um das Bild auszuwählen"
+
+#: inc/functions.php:1273 inc/functions.php:1344
+msgid "Image"
+msgstr "Bild"
+
+#: inc/functions.php:1274 inc/functions.php:1346
+msgid "Click here to change image"
+msgstr "Klicken Sie hier, um das Bild zu ändern"
+
+#: inc/functions.php:1359 inc/wc_settings.php:108 inc/wc_settings.php:230
+#: inc/wc_settings.php:326 pro/wi_extended_2.php:192
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: inc/functions.php:1389
+msgid "Packages are not enabled for this product."
+msgstr "Pakete sind für dieses Produkt nicht aktiviert."
+
+#: inc/functions.php:1389 inc/wc_settings.php:112 pro/wi_extended.php:93
+#: pro/wi_extended_2.php:133 pro/wi_extended_2.php:135
+msgid "Click here"
+msgstr "Hier klicken"
+
+#: inc/functions.php:1389
+msgid "to enable"
+msgstr "ermöglichen"
+
+#: inc/functions.php:1395
+msgid "Validity?"
+msgstr "Gültigkeit?"
+
+#: inc/functions.php:1397
+msgid "Days"
+msgstr "Tage"
+
+#: inc/functions.php:1398
+msgid "How it works?"
+msgstr "Wie es funktioniert?"
+
+#: inc/functions.php:1398
+msgid ""
+"Each slab will use the above defined number of days as valid access and "
+"after that customer has to purchase the remaining required packages or full "
+"product to access the course, page, post or classes etc. "
+msgstr ""
+"Jede Platte verwendet die oben definierte Anzahl von Tagen als gültigen "
+"Zugriff. Danach muss der Kunde die verbleibenden erforderlichen Pakete oder "
+"das gesamte Produkt erwerben, um auf den Kurs, die Seite, den Beitrag oder "
+"die Klassen usw. zugreifen zu können. "
+
+#: inc/functions.php:1400
+msgid "Note: Leave it to zero \"0\" for no restrictions."
+msgstr "Hinweis: Belassen Sie es ohne Einschränkungen auf Null \"0\"."
+
+#: inc/functions.php:1444
+msgid "Packages Control"
+msgstr "Paketkontrolle"
+
+#: inc/functions.php:1472
+msgid "To access this page, users need to buy the following tiers"
+msgstr ""
+"Um auf diese Seite zugreifen zu können, müssen Benutzer die folgenden Ebenen "
+"kaufen"
+
+#: inc/functions.php:1499
+msgid "No products are found as packages."
+msgstr "Es werden keine Produkte als Pakete gefunden."
+
+#: inc/functions.php:1668
+msgid ""
+"Sorry for the inconvenience, you are required to purchase the following "
+"package(s) to proceed."
+msgstr ""
+"Entschuldigen Sie die Unannehmlichkeiten. Sie müssen die folgenden Pakete "
+"erwerben, um fortzufahren."
+
+#: inc/functions.php:1689
+msgid ""
+"Sorry for the inconvenience, you are required to purchase the remaining "
+"package(s) to proceed."
+msgstr ""
+"Entschuldigen Sie die Unannehmlichkeiten. Sie müssen die verbleibenden "
+"Pakete kaufen, um fortfahren zu können."
+
+#: inc/functions.php:1703
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: inc/functions.php:1704
+msgid "Every package increases your access with another "
+msgstr "Jedes Paket erhöht Ihren Zugang mit einem anderen "
+
+#: inc/functions.php:1704
+msgid "days"
+msgstr "Tage"
+
+#: inc/functions.php:1715 inc/wc_settings.php:47
+msgid "Please"
+msgstr "Bitte"
+
+#: inc/functions.php:1715
+msgid "to proceed"
+msgstr "fortfahren"
+
+#: inc/functions.php:1715
+msgid "login"
+msgstr "Anmeldung"
+
+#: inc/functions.php:1739
+msgid "Pro"
+msgstr "Profi"
+
+#: inc/functions.php:1754 inc/wc_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben nicht genügend Berechtigungen, um auf diese Seite zuzugreifen."
+
+#: inc/functions.php:1829
+msgid "Go Premium"
+msgstr "Gehen Sie Premium"
+
+#: inc/functions.php:1938
+msgid "Please enter price and title for all packages to add more."
+msgstr ""
+"Bitte geben Sie Preis und Titel für alle Pakete ein, um weitere hinzuzufügen."
+
+#: inc/functions.php:1939
+msgid "Do you want to remove this package?"
+msgstr "Möchten Sie dieses Paket entfernen?"
+
+#: inc/functions.php:1940
+msgid "Are you sure? you want to delete this playlist."
+msgstr ""
+"Bist du sicher? Sie möchten diese Wiedergabeliste löschen.Es sind noch keine "
+"Pakete definiert."
+
+#: inc/functions.php:1941
+msgid "No packages defined yet."
+msgstr "Es sind noch keine Pakete definiert."
+
+#: inc/functions.php:1942
+msgid "Please fill all required fields"
+msgstr "Bitte alle notwendigen Felder ausfüllen"
+
+#: inc/functions.php:1943
+msgid "At lease one url required to save a playlist"
+msgstr "Zumindest eine URL erforderlich, um eine Wiedergabeliste zu speichern"
+
+#: inc/functions.php:1961
+msgid "N/A"
+msgstr "N / A"
+
+#: inc/functions.php:2106
+msgid "Demo content created successfully"
+msgstr "Demo-Inhalt erfolgreich erstellt"
+
+#: inc/functions.php:2154
+msgid "Demo content removed successfully"
+msgstr "Demo-Inhalt erfolgreich entfernt"
+
+#: inc/functions.php:2205
+msgid "Demo Course"
+msgstr "Demokurs"
+
+#: inc/wc_settings.php:28
+msgid "Course Products"
+msgstr "Kursprodukte"
+
+#: inc/wc_settings.php:29
+msgid "Post Types"
+msgstr "Beitragstypen"
+
+#: inc/wc_settings.php:30
+msgid "Audio/Video"
+msgstr "Audio / Video"
+
+#: inc/wc_settings.php:31
+msgid "Help"
+msgstr "Hilfe"
+
+#: inc/wc_settings.php:32
+msgid "Customization"
+msgstr "Anpassung"
+
+#: inc/wc_settings.php:33
+msgid "Layouts"
+msgstr "Layouts"
+
+#: inc/wc_settings.php:34
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/wc_settings.php:41
+msgid "Click here to download pro version"
+msgstr "Klicken Sie hier, um die Pro-Version herunterzuladen"
+
+#: inc/wc_settings.php:41
+msgid "Already a Pro Member?"
+msgstr "Schon ein Pro-Mitglied?"
+
+#: inc/wc_settings.php:47
+msgid "You need WooCommerce plugin to be installed and activated."
+msgstr ""
+"Sie benötigen das WooCommerce-Plugin, um installiert und aktiviert zu werden."
+
+#: inc/wc_settings.php:47
+msgid "Install"
+msgstr "Installieren"
+
+#: inc/wc_settings.php:47
+msgid "and"
+msgstr "und"
+
+#: inc/wc_settings.php:47
+msgid "or"
+msgstr "oder"
+
+#: inc/wc_settings.php:47
+msgid "Activate"
+msgstr "aktivieren Sie"
+
+#: inc/wc_settings.php:47
+msgid "plugin to proceed"
+msgstr "Plugin um fortzufahren"
+
+#: inc/wc_settings.php:81
+msgid "Enable/Disable Course Products"
+msgstr "Kursprodukte aktivieren / deaktivieren"
+
+#: inc/wc_settings.php:90 inc/wc_settings.php:450
+msgid "Product"
+msgstr "Produkt"
+
+#: inc/wc_settings.php:94 inc/wc_settings.php:454
+msgid "Packages"
+msgstr "Pakete"
+
+#: inc/wc_settings.php:94 inc/wc_settings.php:95 inc/wc_settings.php:454
+#: inc/wc_settings.php:455
+msgid "On/Off"
+msgstr "An/aus"
+
+#: inc/wc_settings.php:95 inc/wc_settings.php:455
+msgid "Full Course Buy"
+msgstr "Voller Kurs kaufen"
+
+#: inc/wc_settings.php:112
+msgid "WooCommerce Products not found."
+msgstr "WooCommerce-Produkte nicht gefunden."
+
+#: inc/wc_settings.php:112
+msgid "to add WooCommerce products."
+msgstr "WooCommerce-Produkte hinzufügen."
+
+#: inc/wc_settings.php:114
+msgid "Add WooCommerce Products with a price more than"
+msgstr "Fügen Sie WooCommerce-Produkte mit einem Preis von mehr als hinzu"
+
+#: inc/wc_settings.php:136
+msgid "Select from the following post types to enable courses."
+msgstr ""
+"Wählen Sie einen der folgenden Beitragstypen aus, um Kurse zu aktivieren."
+
+#: inc/wc_settings.php:138
+msgid "Note"
+msgstr "Hinweis"
+
+#: inc/wc_settings.php:138
+msgid ""
+"Post & Page are enabled by default. If you will uncheck all, still post & "
+"page will work."
+msgstr ""
+"Post & Page sind standardmäßig aktiviert. Wenn Sie alle deaktivieren, "
+"funktioniert Post & Page weiterhin."
+
+#: inc/wc_settings.php:138
+msgid "So at least select one."
+msgstr "Wählen Sie also mindestens eine aus."
+
+#: inc/wc_settings.php:179
+msgid "Expand"
+msgstr "Erweitern"
+
+#: inc/wc_settings.php:180
+msgid "Collapse"
+msgstr "Zusammenbruch"
+
+#: inc/wc_settings.php:204
+msgid "This is a demo post installed for demonstration."
+msgstr "Dies ist ein Demo-Beitrag, der zur Demonstration installiert wurde."
+
+#: inc/wc_settings.php:207
+msgid "Associate / Link Packages"
+msgstr "Associate / Link-Pakete"
+
+#: inc/wc_settings.php:239
+msgid "For more details and queries please"
+msgstr "Für weitere Details und Fragen bitte"
+
+#: inc/wc_settings.php:239
+msgid "contact us"
+msgstr "kontaktiere uns"
+
+#: inc/wc_settings.php:240
+msgid "or visit"
+msgstr "oder besuchen"
+
+#: inc/wc_settings.php:240
+msgid "support forum"
+msgstr "Hilfeforum"
+
+#: inc/wc_settings.php:246
+msgid "How to use?"
+msgstr "Wie benutzt man?"
+
+#: inc/wc_settings.php:273
+msgid "Update text notifications"
+msgstr "Aktualisieren Sie Textbenachrichtigungen"
+
+#: inc/wc_settings.php:279
+msgid "Help text at single product pages about packages"
+msgstr "Hilfetext auf einzelnen Produktseiten zu Paketen"
+
+#: inc/wc_settings.php:287
+msgid ""
+"Info text about packages at single product page above the package selection"
+msgstr ""
+"Infotext zu Paketen auf einer einzelnen Produktseite über der Paketauswahl"
+
+#: inc/wc_settings.php:295
+msgid "Help text for purchasing full product"
+msgstr "Hilfetext zum Kauf des vollständigen Produkts"
+
+#: inc/wc_settings.php:303
+msgid "Button text at single product page for purchasing packages"
+msgstr ""
+"Schaltflächentext auf einer einzelnen Produktseite zum Kauf von Paketen"
+
+#: inc/wc_settings.php:311
+msgid "Heading at my account page for courses you are offering:"
+msgstr "Auf meiner Kontoseite finden Sie Kurse, die Sie anbieten:"
+
+#: inc/wc_settings.php:319
+msgid "Heading at my account page for courses you have enrolled:"
+msgstr ""
+"Auf meiner Kontoseite finden Sie Kurse, für die Sie sich angemeldet haben:"
+
+#: inc/wc_settings.php:329
+msgid "Optional"
+msgstr "Optional"
+
+#: inc/wc_settings.php:339
+msgid "Billing Details"
+msgstr "Rechnungsdetails"
+
+#: inc/wc_settings.php:339 inc/wc_settings.php:345 inc/wc_settings.php:351
+msgid "On"
+msgstr "Auf"
+
+#: inc/wc_settings.php:339 inc/wc_settings.php:345 inc/wc_settings.php:351
+msgid "Off"
+msgstr "aus"
+
+#: inc/wc_settings.php:345
+msgid "Shipping Details"
+msgstr "Versanddetails"
+
+#: inc/wc_settings.php:351
+msgid "Order Comments"
+msgstr "Kommentare bestellen"
+
+#: inc/wc_settings.php:381
+msgid "It is safe to try demo content for a quick start."
+msgstr "Es ist sicher, Demo-Inhalte für einen schnellen Start auszuprobieren."
+
+#: inc/wc_settings.php:403
+msgid "Install Demo Content"
+msgstr "Installieren Sie den Demo-Inhalt"
+
+#: inc/wc_settings.php:405 inc/wc_settings.php:417
+msgid "Loading"
+msgstr "Wird geladen"
+
+#: inc/wc_settings.php:415
+msgid "Uninstall Demo Content"
+msgstr "Deinstallieren Sie den Demo-Inhalt"
+
+#: index.php:26
+msgid "Alternatively you can get course in parts."
+msgstr "Alternativ können Sie Kurs in Teilen bekommen."
+
+#: index.php:28
+msgid "Click add to cart for complete purchase"
+msgstr "Klicken Sie zum vollständigen Kauf auf In den Warenkorb"
+
+#: index.php:30
+msgid "My Courses"
+msgstr "Meine Kurse"
+
+#: index.php:31
+msgid "Enrolled Courses"
+msgstr "Eingeschriebene Kurse"
+
+#: index.php:61
+msgid "is required to be installed and activated."
+msgstr "muss installiert und aktiviert sein."
+
+#: pro/wi_extended.php:93
+msgid "Or interested in packages?"
+msgstr "Oder an Paketen interessiert?"
+
+#: pro/wi_extended.php:338
+msgid "Already Purchased"
+msgstr "Bereits gekauft"
+
+#: pro/wi_extended.php:432
+msgid "Pay"
+msgstr "Zahlen"
+
+#: pro/wi_extended.php:449
+msgid "Interested in full buy?"
+msgstr "Interessiert an einem vollständigen Kauf?"
+
+#: pro/wi_extended.php:449
+msgid "Click here to buy complete product"
+msgstr "Klicken Sie hier, um das komplette Produkt zu kaufen"
+
+#: pro/wi_extended.php:489
+msgid "Please activate Automatic Updates plugin to proceed"
+msgstr ""
+"Bitte aktivieren Sie das Plugin für automatische Updates, um fortzufahren"
+
+#: pro/wi_extended_2.php:26
+msgid "Read less"
+msgstr "Lese weniger"
+
+#: pro/wi_extended_2.php:30
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: pro/wi_extended_2.php:132
+msgid "These templates are based on Bootstrap 4.0. Please "
+msgstr "Diese Vorlagen basieren auf Bootstrap 4.0. Bitte "
+
+#: pro/wi_extended_2.php:134
+msgid "to get better understanding."
+msgstr "um ein besseres Verständnis zu bekommen."
+
+#: pro/wi_extended_2.php:134
+msgid ""
+"You can create custom templates and place HTML file in relevant plugin "
+"directory."
+msgstr ""
+"Sie können benutzerdefinierte Vorlagen erstellen und die HTML-Datei im "
+"entsprechenden Plugin-Verzeichnis ablegen."
+
+#: pro/wi_extended_2.php:136
+msgid "to download sample template file."
+msgstr "Beispielvorlagendatei herunterladen."
+
+#: pro/wi_extended_2.php:136
+msgid "These templates are tested on"
+msgstr "Diese Vorlagen werden am getestet"
+
+#: pro/wi_extended_2.php:136
+msgid "Twenty Nineteen Theme"
+msgstr "Neunzehn neunzehn Thema"
+
+#: pro/wi_extended_2.php:348
+msgid "Full buy"
+msgstr "Voller Kauf"
+
+#: pro/wi_extended_2.php:349
+msgid "Get packages"
+msgstr "Holen Sie sich Pakete"
+
+#: pro/wi_extended_2.php:355
+msgid "Qty"
+msgstr "Menge"
+
+#: pro/wi_extended_2.php:356
+msgid "Add to cart"
+msgstr "In den Warenkorb legen"
+
+#: pro/wi_extended_2.php:523
+msgid "Success! "
+msgstr "Erfolg! "
+
+#~ msgid "Online Course Settings"
+#~ msgstr "Online-Kurseinstellungen"

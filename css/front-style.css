@@ -1,0 +1,249 @@
+@charset "utf-8";
+
+.woo_inst_tiers,
+.woo_inst_cart_tiers{
+	margin:10px 0 30px 0;
+	list-style:none;
+}
+.woo_inst_tiers ul,
+.woo_inst_cart_tiers ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+.woo_inst_tiers ul li,
+.woo_inst_cart_tiers ul li{
+	width:100%;
+	float:left;
+}
+.woo_inst_tiers ul li input{
+	float:left;
+}
+.woo_inst_tiers ul li input,
+.woo_inst_tiers ul li label{
+	padding:0;
+	margin:0;
+}
+.woo_inst_tiers ul li label{
+	font-size:12px;
+	float:left;
+	margin:0 0 0 8px;
+}
+.woo_inst_alert{
+	padding: .75rem 1.25rem;
+	border-radius: .25rem;
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+	clear: both;
+	width: 100%;
+	margin: 30px auto;
+	text-align: center;
+	font-size: 16px;
+}
+
+.woo_inst_single_template .package_group_item ,
+.woo_inst_single_template .package_group_item * {
+	cursor: pointer;
+}
+
+.woo_inst_single_template .package_group_item {
+	margin-bottom: 20px;
+	padding:5px;
+}
+
+.woo_inst_single_template .package_group_item_selected {
+
+	box-shadow: 0px 0px 13px 0px rgba(13,83,247,1);
+	opacity: 1;
+}
+
+.woo_inst_single_template .package_group_item:not(.package_group_item_selected) {
+
+	opacity: 0.6;
+
+}
+
+.woo_inst_single_template .package_group_item:not(.package_group_item_selected):not(.unlinked):hover {
+
+	opacity: 1;
+
+}
+
+.woo_inst_single_template .unlinked{
+	opacity: 0.4;
+	cursor: unset;
+	box-shadow: none;
+}
+
+.woo_inst_single_template input[type=submit]{
+	font-weight: unset;
+	background: #343a40;
+	border-color: #343a40;
+	color: #ffffff;
+}
+
+
+
+.woo_inst_package_group_item_image{
+	width: 100%;
+	max-height: 50%;
+	border: 1px solid lightgray;
+	padding: 3px;
+	border-radius: 15px;
+}
+
+.pkg_price{
+	font-size: 22px;
+}
+
+.pkg_title{
+	font-size: 18px;
+}
+
+.pkg_description{
+	font-size: 16px;
+}
+
+.package_group_item{
+	text-align: center;
+}
+.woo_inst_single_template input[type="submit"]:hover{
+	text-decoration:none;
+}
+
+.woo_inst_single_course .attachment-woocommerce_thumbnail{
+
+	width: 100%;
+	height: 100%;
+}
+
+.woo_inst_single_course .image_wrapper{
+
+	width: 100%;
+	height: 250px;
+}
+
+.woo_inst_package_tr{
+
+	display: none;
+}
+
+.hentry .entry-content a.text-decoration-none{
+	text-decoration: none;
+}
+
+.hentry .entry-content a.text-decoration-none:focus{
+	outline: none;
+}
+
+.wi_text_center{
+
+	text-align: center;
+}
+
+.wi_alert{
+
+	box-shadow: 0 0 10px #15151545;
+	border: 1px solid lightgrey;
+	border-left-color: darkred;
+	border-left-width: 10px;
+	padding: 5px;
+
+}
+
+.wi_alert.wi_alert_danger{
+
+	border-left-color: darkred;
+
+}
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul{
+
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	padding-left: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+
+}
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul li{
+
+	position: relative;
+	display: block;
+	padding: .75rem 1.25rem;
+	margin: unset;
+	margin-bottom: -1px;
+	background-color: #fff;
+	border: 1px solid rgba(0,0,0,.125);
+	cursor: pointer;
+	color: black;
+}
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul li:hover{
+
+	background-color: #efefef;
+	box-shadow: 0px 0px 10px lightgrey;
+	border: 1px solid #d3d3d373;
+	color: #17a2b8;
+
+
+}
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul li.playing{
+
+	background-color: #efefef;
+	box-shadow: 0px 0px 10px lightgrey;
+	border: 1px solid #d3d3d373;
+	color: #000000;
+
+
+}
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul li:first-child {
+	border-top-left-radius: .25rem;
+	border-top-right-radius: .25rem;
+}
+
+
+.woo_inst_playlist_wrapper .woo_inst_urls ul li:last-child {
+	margin-bottom: 0;
+	border-bottom-right-radius: .25rem;
+	border-bottom-left-radius: .25rem;
+}
+
+body{
+	font-size: 1.8rem;
+}
+
+.wi_package_switch:hover,
+.wi_full_switch:hover{
+
+	text-decoration: none;
+}
+
+button.btn:focus{
+	text-decoration: none;
+}
+
+.woo_inst_tiers input[type="submit"]:hover,
+.woo_inst_pay_installment_btn:hover,
+.woo_inst_pay_full_btn:hover,
+.woo_inst_tiers input[type="submit"]:focus,
+.woo_inst_pay_installment_btn:focus,
+.woo_inst_pay_full_btn:focus
+{
+
+	text-decoration: none;
+}
+
+.woo_inst_single_template .btn{
+
+	font-size: 14px;
+}

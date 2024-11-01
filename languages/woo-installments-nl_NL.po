@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-11-13 10:01+0500\n"
+"PO-Revision-Date: 2020-11-13 10:02+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: pro\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: index.php\n"
+
+#: inc/demo-data.php:5
+msgid "Introduction to Java Programming: Starting to code in Java"
+msgstr "Inleiding tot Java-programmering: beginnen met coderen in Java"
+
+#: inc/demo-data.php:6
+msgid ""
+"In this introductory Java programming course, you will be introduced to "
+"powerful concepts such as functional abstraction, the object oriented "
+"programming (OOP) paradigm and Application Programming Interfaces (APIs)."
+msgstr ""
+"In deze inleidende cursus Java programmeren maak je kennis met krachtige "
+"concepten zoals functionele abstractie, het objectgeoriënteerde "
+"programmeerparadigma (OOP) en Application Programming Interfaces (API's)."
+
+#: inc/demo-data.php:6
+msgid ""
+"Examples and case studies will be provided so that you can implement simple "
+"programs on your own or collaborate with peers."
+msgstr ""
+"Er worden voorbeelden en casestudy's gegeven, zodat u eenvoudige programma's "
+"zelf kunt implementeren of kunt samenwerken met collega's."
+
+#: inc/demo-data.php:12 inc/demo-data.php:16
+msgid "From the Calculator to the Computer"
+msgstr "Van de rekenmachine tot de computer"
+
+#: inc/demo-data.php:13
+msgid "Complete details from calculator to the computer"
+msgstr "Volledige details van rekenmachine tot computer"
+
+#: inc/demo-data.php:17 inc/demo-data.php:67
+msgid ""
+"The first section introduces basic programming concepts, such as values and "
+"expressions, as well as making decisions when implementing algorithms and "
+"developing programs. "
+msgstr ""
+"De eerste sectie introduceert basisprincipes van programmeren, zoals waarden "
+"en uitdrukkingen, evenals het nemen van beslissingen bij het implementeren "
+"van algoritmen en het ontwikkelen van programma's. "
+
+#: inc/demo-data.php:25 inc/demo-data.php:29
+msgid "State Transformation"
+msgstr "Staatstransformatie"
+
+#: inc/demo-data.php:26
+msgid "State Transformation & representation of data"
+msgstr "Staatstransformatie en weergave van gegevens"
+
+#: inc/demo-data.php:30 inc/demo-data.php:44
+msgid ""
+"The second section introduces state transformation including representation "
+"of data and programs as well as conditional repetition."
+msgstr ""
+"Het tweede deel introduceert toestandstransformatie inclusief weergave van "
+"gegevens en programma's en voorwaardelijke herhaling."
+
+#: inc/demo-data.php:39 inc/demo-data.php:43
+msgid "Functional Abstraction"
+msgstr "Functionele abstractie"
+
+#: inc/demo-data.php:40
+msgid "Functional Abstraction addresses the organization of code in a program"
+msgstr ""
+"Functionele abstractie behandelt de organisatie van code in een programma"
+
+#: inc/demo-data.php:55
+msgid "Child Protection: Children's Rights in Theory and Practice"
+msgstr "Kinderbescherming: kinderrechten in theorie en praktijk"
+
+#: inc/demo-data.php:56
+msgid ""
+"Across the world, children are at risk from violence, abuse, exploitation, "
+"and neglect."
+msgstr ""
+"Over de hele wereld lopen kinderen het risico door geweld, misbruik, "
+"uitbuiting en verwaarlozing."
+
+#: inc/demo-data.php:56
+msgid ""
+"Conflict and natural disasters have forced millions to flee their homes and "
+"confront the dangers of migration and displacement."
+msgstr ""
+"Door conflicten en natuurrampen zijn miljoenen mensen gedwongen hun huizen "
+"te ontvluchten en de gevaren van migratie en ontheemding het hoofd te bieden."
+
+#: inc/demo-data.php:56
+msgid ""
+"Commercial sexual exploitation and trafficking, child labor, and child "
+"marriage are problems in many countries."
+msgstr ""
+"Commerciële seksuele uitbuiting en handel, kinderarbeid en kindhuwelijken "
+"zijn in veel landen problemen."
+
+#: inc/demo-data.php:56
+msgid ""
+"At-risk children and adolescents need their rights enforced if we are to "
+"protect them from harm and to ensure that they develop to their full "
+"potential."
+msgstr ""
+"Risicokinderen en adolescenten hebben behoefte aan handhaving van hun "
+"rechten als we hen willen beschermen tegen schade en ervoor willen zorgen "
+"dat ze zich optimaal ontwikkelen."
+
+#: inc/demo-data.php:62 inc/demo-data.php:66
+msgid "Every Child's Right to Protection"
+msgstr "Het recht van elk kind op bescherming"
+
+#: inc/demo-data.php:63
+msgid "The Legal Foundation of Child Protection"
+msgstr "De juridische basis van kinderbescherming"
+
+#: inc/demo-data.php:75 inc/demo-data.php:79
+msgid "Violence Against Children"
+msgstr "Geweld tegen kinderen"
+
+#: inc/demo-data.php:76
+msgid "Causes and Consequences of Violence"
+msgstr "Oorzaken en gevolgen van geweld"
+
+#: inc/demo-data.php:80
+msgid "Causes and Consequences of Violence."
+msgstr "Oorzaken en gevolgen van geweld."
+
+#: inc/demo-data.php:80
+msgid "Strategies for Preventing and Addressing Violence."
+msgstr "Strategieën voor het voorkomen en aanpakken van geweld."
+
+#: inc/demo-data.php:80
+msgid "Examples of Preventing and Addressing Violence."
+msgstr "Voorbeelden van het voorkomen en aanpakken van geweld."
+
+#: inc/demo-data.php:89 inc/demo-data.php:93
+msgid "Children and the Law"
+msgstr "Kinderen en de wet"
+
+#: inc/demo-data.php:90
+msgid "Children in Conflict with the Law"
+msgstr "Kinderen in strijd met de wet"
+
+#: inc/demo-data.php:94
+msgid "Children in Conflict with the Law."
+msgstr "Kinderen in strijd met de wet."
+
+#: inc/demo-data.php:94
+msgid "Children in Contact with the Law."
+msgstr "Kinderen in aanraking met de wet."
+
+#: inc/demo-data.php:94
+msgid "Migrant Children and the Law."
+msgstr "Migrantenkinderen en de wet."
+
+#: inc/exceptions.php:5 inc/exceptions.php:8
+msgid "Sorry, you cannot get exceptions."
+msgstr "Sorry, u kunt geen uitzonderingen krijgen."
+
+#: inc/functions-inner.php:656
+msgid "Select posts to lock against this package"
+msgstr "Selecteer berichten om voor dit pakket te vergrendelen"
+
+#: inc/functions-inner.php:744
+msgid "This is a premium feature, please"
+msgstr "Dit is een premiumfunctie, alstublieft"
+
+#: inc/functions-inner.php:746
+msgid "click here"
+msgstr "Klik hier"
+
+#: inc/functions-inner.php:747
+msgid "to get premium version."
+msgstr "om een ​​premium-versie te krijgen."
+
+#: inc/functions-inner.php:756
+msgid "This is premium a feature."
+msgstr "Dit is een premium functie."
+
+#: inc/functions-inner.php:756
+msgid "Click to get premium version"
+msgstr "Klik om een ​​premium-versie te krijgen"
+
+#: inc/functions-inner.php:791
+msgid "Online Courses"
+msgstr "Online cursussen"
+
+#: inc/functions-inner.php:894
+msgid "Full course"
+msgstr "Volledige cursus"
+
+#: inc/functions-inner.php:935 inc/functions-inner.php:2225
+#: inc/functions-inner.php:2267
+msgid "View"
+msgstr "Visie"
+
+#: inc/functions-inner.php:961
+msgid "No course found."
+msgstr "Geen cursus gevonden."
+
+#: inc/functions-inner.php:1039 inc/functions.php:1247 inc/functions.php:1318
+msgid "Title"
+msgstr "Titel"
+
+#: inc/functions-inner.php:1040 inc/functions.php:1240 inc/functions.php:1311
+#: inc/wc_settings.php:91 inc/wc_settings.php:451
+msgid "Price"
+msgstr "Prijs"
+
+#: inc/functions-inner.php:1041 inc/functions.php:1255 inc/functions.php:1326
+msgid "Description"
+msgstr "Omschrijving"
+
+#: inc/functions-inner.php:1175
+msgid "Order No."
+msgstr "Bestellen Nee."
+
+#: inc/functions-inner.php:1176
+msgid "Course Name"
+msgstr "Cursus naam"
+
+#: inc/functions-inner.php:1177
+msgid "Purchased package"
+msgstr "Gekocht pakket"
+
+#: inc/functions-inner.php:1178
+msgid "Action"
+msgstr "Actie"
+
+#: inc/functions-inner.php:1232 inc/functions-inner.php:1274
+msgid "Full purchased"
+msgstr "Volledig gekocht"
+
+#: inc/functions-inner.php:1235 inc/functions-inner.php:1285
+msgid "view"
+msgstr "visie"
+
+#: inc/functions-inner.php:1274
+msgid "Out of"
+msgstr "Uit"
+
+#: inc/functions-inner.php:1345
+msgid "Currently, not enrolled in any course."
+msgstr "Momenteel niet ingeschreven voor een cursus."
+
+#: inc/functions-inner.php:1405 inc/functions-inner.php:1838
+#: inc/functions-inner.php:1996 inc/functions-inner.php:2043
+#: inc/functions.php:209 inc/functions.php:258 inc/functions.php:291
+#: inc/functions.php:360 inc/functions.php:1516 inc/functions.php:2091
+#: inc/functions.php:2136 pro/wi_extended.php:22 pro/wi_extended_2.php:88
+msgid "Sorry, your nonce did not verify."
+msgstr "Sorry, uw nonce is niet geverifieerd."
+
+#: inc/functions-inner.php:1436
+msgid "Playlist created successfully."
+msgstr "Afspeellijst succesvol gemaakt."
+
+#: inc/functions-inner.php:1443
+msgid "Playlist with same title already exist, please enter unique title"
+msgstr ""
+"Er bestaat al een afspeellijst met dezelfde titel. Voer een unieke titel in"
+
+#: inc/functions-inner.php:1457
+msgid "Playlist updated successfully."
+msgstr "Afspeellijst succesvol bijgewerkt."
+
+#: inc/functions-inner.php:1527
+msgid "Edit Playlist"
+msgstr "Bewerk afspeellijst"
+
+#: inc/functions-inner.php:1528
+msgid "Delete Playlist"
+msgstr "Afspeellijst verwijderen"
+
+#: inc/functions-inner.php:1529
+msgid "View Url"
+msgstr "Bekijk URL"
+
+#: inc/functions-inner.php:1608
+msgid "No playlist found"
+msgstr "Geen playlist gevonden"
+
+#: inc/functions-inner.php:1660
+msgid ""
+"Video or Audio url can be media used to create a playlist with HTML5 Media "
+"Player."
+msgstr ""
+"Video- of audio-URL kan als media worden gebruikt om een ​​afspeellijst te "
+"maken met HTML5 Media Player."
+
+#: inc/functions-inner.php:1676
+msgid "Create Audio/Video Course Playlist"
+msgstr "Maak een audio- / videocursusafspeellijst"
+
+#: inc/functions-inner.php:1685
+msgid "Add New"
+msgstr "Nieuw toevoegen"
+
+#: inc/functions-inner.php:1690
+msgid "Show all playlists"
+msgstr "Toon alle afspeellijsten"
+
+#: inc/functions-inner.php:1711 inc/functions-inner.php:1715
+msgid "Playlist Title"
+msgstr "Titel van afspeellijst"
+
+#: inc/functions-inner.php:1725
+msgid "Add playlist URL's"
+msgstr "Voeg afspeellijst-URL's toe"
+
+#: inc/functions-inner.php:1731
+msgid "Add New URL"
+msgstr "Nieuwe URL toevoegen"
+
+#: inc/functions-inner.php:1766
+msgid "Save Playlist"
+msgstr "Bewaar afspeellijst"
+
+#: inc/functions-inner.php:1771
+msgid "Update Playlist"
+msgstr "Update afspeellijst"
+
+#: inc/functions-inner.php:1798
+msgid "Playlist title"
+msgstr "Titel van afspeellijst"
+
+#: inc/functions-inner.php:1799
+msgid "Shortcode"
+msgstr "Korte code"
+
+#: inc/functions-inner.php:1857
+msgid "Playlist deleted successfully."
+msgstr "Afspeellijst succesvol verwijderd."
+
+#: inc/functions-inner.php:1905
+msgid "Playlist not exist."
+msgstr "Afspeellijst bestaat niet."
+
+#: inc/functions-inner.php:1942
+msgid "Course Playlist"
+msgstr "Cursus-afspeellijst"
+
+#: inc/functions-inner.php:1951
+msgid "Click to play"
+msgstr "Klik om te spelen"
+
+#: inc/functions-inner.php:2087
+msgid "Previous"
+msgstr "Vorige"
+
+#: inc/functions-inner.php:2111
+msgid "Next"
+msgstr "De volgende"
+
+#: inc/functions-inner.php:2129
+msgid "Items per page"
+msgstr "Artikelen per pagina"
+
+#: inc/functions-inner.php:2220 inc/functions-inner.php:2264
+msgid "This is a demo product installed for demonstration."
+msgstr "Dit is een demo-product dat is geïnstalleerd voor demonstratie."
+
+#: inc/functions-inner.php:2220 inc/functions-inner.php:2264
+#: inc/wc_settings.php:204
+msgid "Demo Content"
+msgstr "Demo-inhoud"
+
+#: inc/functions-inner.php:2224
+msgid "Edit"
+msgstr "Bewerk"
+
+#: inc/functions-inner.php:2254
+msgid "Go to Course Products tab to change the settings"
+msgstr "Ga naar het tabblad Cursusproducten om de instellingen te wijzigen"
+
+#: inc/functions.php:505
+msgid "Successfully updated."
+msgstr "Succesvol geüpdatet."
+
+#: inc/functions.php:592
+msgid "Full Buy"
+msgstr "Volledige aankoop"
+
+#: inc/functions.php:593
+msgid "Get Packages"
+msgstr "Pakketten ophalen"
+
+#: inc/functions.php:596
+msgid "Alternatively you can get course in installments."
+msgstr "Als alternatief kunt u een cursus in termijnen volgen."
+
+#: inc/functions.php:597 index.php:27
+msgid "Following tiers are available"
+msgstr "De volgende niveaus zijn beschikbaar"
+
+#: inc/functions.php:618 index.php:29 pro/wi_extended.php:446
+#: pro/wi_extended_2.php:365
+msgid "Proceed with Packages"
+msgstr "Ga verder met pakketten"
+
+#: inc/functions.php:659 pro/wi_extended_2.php:524
+msgid "To proceed, click on "
+msgstr "Klik op om verder te gaan "
+
+#: inc/functions.php:659 pro/wi_extended_2.php:525
+msgid "View Cart"
+msgstr "Bekijk winkelwagen"
+
+#: inc/functions.php:749 inc/functions.php:1971
+msgid "Package"
+msgstr "Pakket"
+
+#: inc/functions.php:1099 inc/functions.php:1823 inc/wc_settings.php:23
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/functions.php:1156
+msgid "Package Heading"
+msgstr "Pakketrubriek"
+
+#: inc/functions.php:1156
+msgid "Packages or Installments"
+msgstr "Pakketten of termijnen"
+
+#: inc/functions.php:1163
+msgid "Please define packages for this product"
+msgstr "Definieer pakketten voor dit product"
+
+#: inc/functions.php:1171
+msgid "Add Package"
+msgstr "Pakket toevoegen"
+
+#: inc/functions.php:1240 inc/functions.php:1311
+msgid "Enter package price"
+msgstr "Voer de pakketprijs in"
+
+#: inc/functions.php:1247 inc/functions.php:1318
+msgid "Enter package title"
+msgstr "Voer de pakkettitel in"
+
+#: inc/functions.php:1255 inc/functions.php:1326
+msgid "Enter package description"
+msgstr "Voer de pakketbeschrijving in"
+
+#: inc/functions.php:1265 inc/functions.php:1335
+msgid "Link course content"
+msgstr "Link cursusinhoud"
+
+#: inc/functions.php:1270 inc/functions.php:1340
+msgid "Add"
+msgstr "Toevoegen"
+
+#: inc/functions.php:1271 inc/functions.php:1341
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/functions.php:1273 inc/functions.php:1343
+msgid "Click here to select image"
+msgstr "Klik hier om een ​​afbeelding te selecteren"
+
+#: inc/functions.php:1273 inc/functions.php:1344
+msgid "Image"
+msgstr "Beeld"
+
+#: inc/functions.php:1274 inc/functions.php:1346
+msgid "Click here to change image"
+msgstr "Klik hier om de afbeelding te wijzigen"
+
+#: inc/functions.php:1359 inc/wc_settings.php:108 inc/wc_settings.php:230
+#: inc/wc_settings.php:326 pro/wi_extended_2.php:192
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: inc/functions.php:1389
+msgid "Packages are not enabled for this product."
+msgstr "Pakketten zijn niet ingeschakeld voor dit product."
+
+#: inc/functions.php:1389 inc/wc_settings.php:112 pro/wi_extended.php:93
+#: pro/wi_extended_2.php:133 pro/wi_extended_2.php:135
+msgid "Click here"
+msgstr "Klik hier"
+
+#: inc/functions.php:1389
+msgid "to enable"
+msgstr "in staat te stellen"
+
+#: inc/functions.php:1395
+msgid "Validity?"
+msgstr "Geldigheid?"
+
+#: inc/functions.php:1397
+msgid "Days"
+msgstr "Dagen"
+
+#: inc/functions.php:1398
+msgid "How it works?"
+msgstr "Hoe het werkt?"
+
+#: inc/functions.php:1398
+msgid ""
+"Each slab will use the above defined number of days as valid access and "
+"after that customer has to purchase the remaining required packages or full "
+"product to access the course, page, post or classes etc. "
+msgstr ""
+"Elke plaat zal het hierboven gedefinieerde aantal dagen gebruiken als "
+"geldige toegang en daarna moet de klant de resterende vereiste pakketten of "
+"het volledige product kopen om toegang te krijgen tot de cursus, pagina, "
+"post of lessen enz. "
+
+#: inc/functions.php:1400
+msgid "Note: Leave it to zero \"0\" for no restrictions."
+msgstr "Opmerking: laat het op nul \"0\" staan ​​zonder beperkingen."
+
+#: inc/functions.php:1444
+msgid "Packages Control"
+msgstr "Pakketten Controle"
+
+#: inc/functions.php:1472
+msgid "To access this page, users need to buy the following tiers"
+msgstr ""
+"Om toegang te krijgen tot deze pagina, moeten gebruikers de volgende niveaus "
+"kopen"
+
+#: inc/functions.php:1499
+msgid "No products are found as packages."
+msgstr "Er zijn geen producten gevonden als pakketten."
+
+#: inc/functions.php:1668
+msgid ""
+"Sorry for the inconvenience, you are required to purchase the following "
+"package(s) to proceed."
+msgstr ""
+"Excuses voor het ongemak, u moet de volgende pakketten kopen om verder te "
+"kunnen gaan."
+
+#: inc/functions.php:1689
+msgid ""
+"Sorry for the inconvenience, you are required to purchase the remaining "
+"package(s) to proceed."
+msgstr ""
+"Excuses voor het ongemak, u moet het resterende pakket (en) kopen om verder "
+"te gaan."
+
+#: inc/functions.php:1703
+msgid "Note:"
+msgstr "Notitie:"
+
+#: inc/functions.php:1704
+msgid "Every package increases your access with another "
+msgstr "Elk pakket vergroot uw toegang met een ander "
+
+#: inc/functions.php:1704
+msgid "days"
+msgstr "dagen"
+
+#: inc/functions.php:1715 inc/wc_settings.php:47
+msgid "Please"
+msgstr "Alstublieft"
+
+#: inc/functions.php:1715
+msgid "to proceed"
+msgstr "verder gaan"
+
+#: inc/functions.php:1715
+msgid "login"
+msgstr "Log in"
+
+#: inc/functions.php:1739
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/functions.php:1754 inc/wc_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft niet voldoende rechten om deze pagina te openen."
+
+#: inc/functions.php:1829
+msgid "Go Premium"
+msgstr "Ga voor Premium"
+
+#: inc/functions.php:1938
+msgid "Please enter price and title for all packages to add more."
+msgstr "Voer prijs en titel in voor alle pakketten om meer toe te voegen."
+
+#: inc/functions.php:1939
+msgid "Do you want to remove this package?"
+msgstr "Wilt u dit pakket verwijderen?"
+
+#: inc/functions.php:1940
+msgid "Are you sure? you want to delete this playlist."
+msgstr "Weet je zeker dat? je wilt deze afspeellijst verwijderen."
+
+#: inc/functions.php:1941
+msgid "No packages defined yet."
+msgstr "Nog geen pakketten gedefinieerd."
+
+#: inc/functions.php:1942
+msgid "Please fill all required fields"
+msgstr "Vul alstublieft alle vereiste velden in"
+
+#: inc/functions.php:1943
+msgid "At lease one url required to save a playlist"
+msgstr "Ten minste één url vereist om een ​​playlist op te slaan"
+
+#: inc/functions.php:1961
+msgid "N/A"
+msgstr "N / EEN"
+
+#: inc/functions.php:2106
+msgid "Demo content created successfully"
+msgstr "Demo-inhoud is met succes gemaakt"
+
+#: inc/functions.php:2154
+msgid "Demo content removed successfully"
+msgstr "Demo-inhoud is verwijderd"
+
+#: inc/functions.php:2205
+msgid "Demo Course"
+msgstr "Demo cursus"
+
+#: inc/wc_settings.php:28
+msgid "Course Products"
+msgstr "Cursusproducten"
+
+#: inc/wc_settings.php:29
+msgid "Post Types"
+msgstr "Berichttypen"
+
+#: inc/wc_settings.php:30
+msgid "Audio/Video"
+msgstr "Audio / video"
+
+#: inc/wc_settings.php:31
+msgid "Help"
+msgstr "Helpen"
+
+#: inc/wc_settings.php:32
+msgid "Customization"
+msgstr "Maatwerk"
+
+#: inc/wc_settings.php:33
+msgid "Layouts"
+msgstr "Indelingen"
+
+#: inc/wc_settings.php:34
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/wc_settings.php:41
+msgid "Click here to download pro version"
+msgstr "Klik hier om de pro-versie te downloaden"
+
+#: inc/wc_settings.php:41
+msgid "Already a Pro Member?"
+msgstr "Bent u al Pro-lid?"
+
+#: inc/wc_settings.php:47
+msgid "You need WooCommerce plugin to be installed and activated."
+msgstr ""
+"Je hebt de WooCommerce-plug-in nodig om te worden geïnstalleerd en "
+"geactiveerd."
+
+#: inc/wc_settings.php:47
+msgid "Install"
+msgstr "Installeren"
+
+#: inc/wc_settings.php:47
+msgid "and"
+msgstr "en"
+
+#: inc/wc_settings.php:47
+msgid "or"
+msgstr "of"
+
+#: inc/wc_settings.php:47
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/wc_settings.php:47
+msgid "plugin to proceed"
+msgstr "plug-in om door te gaan"
+
+#: inc/wc_settings.php:81
+msgid "Enable/Disable Course Products"
+msgstr "Cursusproducten in- / uitschakelen"
+
+#: inc/wc_settings.php:90 inc/wc_settings.php:450
+msgid "Product"
+msgstr "Product"
+
+#: inc/wc_settings.php:94 inc/wc_settings.php:454
+msgid "Packages"
+msgstr "Pakketjes"
+
+#: inc/wc_settings.php:94 inc/wc_settings.php:95 inc/wc_settings.php:454
+#: inc/wc_settings.php:455
+msgid "On/Off"
+msgstr "Aan/Uit"
+
+#: inc/wc_settings.php:95 inc/wc_settings.php:455
+msgid "Full Course Buy"
+msgstr "Volledige cursus kopen"
+
+#: inc/wc_settings.php:112
+msgid "WooCommerce Products not found."
+msgstr "WooCommerce-producten niet gevonden."
+
+#: inc/wc_settings.php:112
+msgid "to add WooCommerce products."
+msgstr "om WooCommerce-producten toe te voegen."
+
+#: inc/wc_settings.php:114
+msgid "Add WooCommerce Products with a price more than"
+msgstr "Voeg WooCommerce-producten toe met een prijs hoger dan"
+
+#: inc/wc_settings.php:136
+msgid "Select from the following post types to enable courses."
+msgstr ""
+"Maak een keuze uit de volgende berichttypen om cursussen in te schakelen."
+
+#: inc/wc_settings.php:138
+msgid "Note"
+msgstr "Notitie"
+
+#: inc/wc_settings.php:138
+msgid ""
+"Post & Page are enabled by default. If you will uncheck all, still post & "
+"page will work."
+msgstr ""
+"Post en pagina zijn standaard ingeschakeld. Als je alles uitschakelt, werken "
+"post & pagina nog steeds."
+
+#: inc/wc_settings.php:138
+msgid "So at least select one."
+msgstr "Dus kies er tenminste één."
+
+#: inc/wc_settings.php:179
+msgid "Expand"
+msgstr "Uitbreiden"
+
+#: inc/wc_settings.php:180
+msgid "Collapse"
+msgstr "Ineenstorting"
+
+#: inc/wc_settings.php:204
+msgid "This is a demo post installed for demonstration."
+msgstr "Dit is een demo-post geïnstalleerd voor demonstratie."
+
+#: inc/wc_settings.php:207
+msgid "Associate / Link Packages"
+msgstr "Associate / Link-pakketten"
+
+#: inc/wc_settings.php:239
+msgid "For more details and queries please"
+msgstr "Voor meer details en vragen"
+
+#: inc/wc_settings.php:239
+msgid "contact us"
+msgstr "Neem contact op"
+
+#: inc/wc_settings.php:240
+msgid "or visit"
+msgstr "of bezoek"
+
+#: inc/wc_settings.php:240
+msgid "support forum"
+msgstr "Helpforum"
+
+#: inc/wc_settings.php:246
+msgid "How to use?"
+msgstr "Hoe te gebruiken?"
+
+#: inc/wc_settings.php:273
+msgid "Update text notifications"
+msgstr "Update tekstmeldingen"
+
+#: inc/wc_settings.php:279
+msgid "Help text at single product pages about packages"
+msgstr "Help-tekst op afzonderlijke productpagina's over pakketten"
+
+#: inc/wc_settings.php:287
+msgid ""
+"Info text about packages at single product page above the package selection"
+msgstr ""
+"Infotekst over pakketten op enkele productpagina boven de pakketselectie"
+
+#: inc/wc_settings.php:295
+msgid "Help text for purchasing full product"
+msgstr "Help-tekst voor het kopen van een volledig product"
+
+#: inc/wc_settings.php:303
+msgid "Button text at single product page for purchasing packages"
+msgstr "Knoptekst op één productpagina voor het kopen van pakketten"
+
+#: inc/wc_settings.php:311
+msgid "Heading at my account page for courses you are offering:"
+msgstr "Ga naar mijn accountpagina voor cursussen die u aanbiedt:"
+
+#: inc/wc_settings.php:319
+msgid "Heading at my account page for courses you have enrolled:"
+msgstr "Ga naar mijn accountpagina voor cursussen die je hebt ingeschreven:"
+
+#: inc/wc_settings.php:329
+msgid "Optional"
+msgstr "Optioneel"
+
+#: inc/wc_settings.php:339
+msgid "Billing Details"
+msgstr "Factuurgegevens"
+
+#: inc/wc_settings.php:339 inc/wc_settings.php:345 inc/wc_settings.php:351
+msgid "On"
+msgstr "Aan"
+
+#: inc/wc_settings.php:339 inc/wc_settings.php:345 inc/wc_settings.php:351
+msgid "Off"
+msgstr "Uit"
+
+#: inc/wc_settings.php:345
+msgid "Shipping Details"
+msgstr "Verzendgegevens"
+
+#: inc/wc_settings.php:351
+msgid "Order Comments"
+msgstr "Bestel Reacties"
+
+#: inc/wc_settings.php:381
+msgid "It is safe to try demo content for a quick start."
+msgstr "Het is veilig om demo-inhoud uit te proberen voor een snelle start."
+
+#: inc/wc_settings.php:403
+msgid "Install Demo Content"
+msgstr "Installeer demo-inhoud"
+
+#: inc/wc_settings.php:405 inc/wc_settings.php:417
+msgid "Loading"
+msgstr "Bezig met laden"
+
+#: inc/wc_settings.php:415
+msgid "Uninstall Demo Content"
+msgstr "Demo-inhoud verwijderen"
+
+#: index.php:26
+msgid "Alternatively you can get course in parts."
+msgstr "Als alternatief kunt u cursus in delen volgen."
+
+#: index.php:28
+msgid "Click add to cart for complete purchase"
+msgstr "Klik op toevoegen aan winkelwagen om de aankoop te voltooien"
+
+#: index.php:30
+msgid "My Courses"
+msgstr "Mijn vakken"
+
+#: index.php:31
+msgid "Enrolled Courses"
+msgstr "Ingeschreven cursussen"
+
+#: index.php:61
+msgid "is required to be installed and activated."
+msgstr "moet worden geïnstalleerd en geactiveerd."
+
+#: pro/wi_extended.php:93
+msgid "Or interested in packages?"
+msgstr "Of geïnteresseerd in arrangementen?"
+
+#: pro/wi_extended.php:338
+msgid "Already Purchased"
+msgstr "Al gekocht"
+
+#: pro/wi_extended.php:432
+msgid "Pay"
+msgstr "Betalen"
+
+#: pro/wi_extended.php:449
+msgid "Interested in full buy?"
+msgstr "Geïnteresseerd in volledige aankoop?"
+
+#: pro/wi_extended.php:449
+msgid "Click here to buy complete product"
+msgstr "Klik hier om een ​​compleet product te kopen"
+
+#: pro/wi_extended.php:489
+msgid "Please activate Automatic Updates plugin to proceed"
+msgstr "Activeer de plug-in Automatische updates om door te gaan"
+
+#: pro/wi_extended_2.php:26
+msgid "Read less"
+msgstr "Lees minder"
+
+#: pro/wi_extended_2.php:30
+msgid "Read more"
+msgstr "Lees verder"
+
+#: pro/wi_extended_2.php:132
+msgid "These templates are based on Bootstrap 4.0. Please "
+msgstr "Deze sjablonen zijn gebaseerd op Bootstrap 4.0. Alstublieft "
+
+#: pro/wi_extended_2.php:134
+msgid "to get better understanding."
+msgstr "om een ​​beter begrip te krijgen."
+
+#: pro/wi_extended_2.php:134
+msgid ""
+"You can create custom templates and place HTML file in relevant plugin "
+"directory."
+msgstr ""
+"U kunt aangepaste sjablonen maken en een HTML-bestand in de relevante plug-"
+"in-directory plaatsen."
+
+#: pro/wi_extended_2.php:136
+msgid "to download sample template file."
+msgstr "om een ​​voorbeeldsjabloonbestand te downloaden."
+
+#: pro/wi_extended_2.php:136
+msgid "These templates are tested on"
+msgstr "Deze sjablonen zijn getest"
+
+#: pro/wi_extended_2.php:136
+msgid "Twenty Nineteen Theme"
+msgstr "Twenty Nineteen-thema"
+
+#: pro/wi_extended_2.php:348
+msgid "Full buy"
+msgstr "Volledige koop"
+
+#: pro/wi_extended_2.php:349
+msgid "Get packages"
+msgstr "Pak pakketten"
+
+#: pro/wi_extended_2.php:355
+msgid "Qty"
+msgstr "Aantal"
+
+#: pro/wi_extended_2.php:356
+msgid "Add to cart"
+msgstr "Voeg toe aan winkelmandje"
+
+#: pro/wi_extended_2.php:523
+msgid "Success! "
+msgstr "Succes! "
